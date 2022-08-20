@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello 👋
+
+- 🔭 I’m currently working on React, Web3, Node.
+- 🌱 I’m currently learning solidity.
+- 👯 I’m looking to collaborate on anything in web3 and blockchain.
+- 💬 Ask me about React, Node.
+- 📫 How to reach me: [@sahil](https://twitter.com/sahil_kashetwar).
 
 <!--
 **meanMonk/meanMonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
