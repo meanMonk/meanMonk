@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on React, Web3, Node.
 - 🌱 I’m currently learning solidity.
 - 👯 I’m looking to collaborate on anything in web3 and blockchain.
-- 💬 Ask me about React, Node.
+- 💬 Ask me anything about React, Javascript, Redux, Node.
 - 📫 How to reach me: [@sahil](https://twitter.com/sahil_kashetwar).
 
 <!--
