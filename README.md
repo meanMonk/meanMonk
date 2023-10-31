@@ -1,22 +1,12 @@
-### Hello 👋
+Bio:
+ - 🚀 Building the future with React, Web3, and Node.
+ - 🧠 Learning Solidity, Rust, and Web3 Security.
+ - 🤝 Open to collaborations in the world of Web3 and blockchain.
 
-- 🔭 I’m currently working on React, Web3, Node.
-- 🌱 I’m learning solidity, rust and web3 security.
-- 👯 I’m looking to collaborate on anything in web3 and blockchain.
-- 💬 Ask me anything about React, Javascript, Redux, Node.
-- 📫 How to reach me: [@sahil](https://twitter.com/sahil_kashetwar).
+Contribution:
+ - 🌱 Helping make Web3 a safer and more decentralized space.
+ - 🔗 Connecting the world through code.
 
-<!--
-**meanMonk/meanMonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me anything about React, Javascript, Redux, Node, Ethers.
+- 📫 How to reach me: sahil@shivaysolutions.in
