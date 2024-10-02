@@ -9,4 +9,4 @@ Contribution:
 
 
 - 💬 Ask me anything about React, Javascript, Redux, Node, Ethers.
-- 📫 How to reach me: sahil@shivaysolutions.in
+- 📫 How to reach me: sahil@vaayulabs.xyz
