@@ -1,6 +1,6 @@
 Bio:
  - 🚀 Building the future with React, Web3, and Node.
- - 🧠 Learning Solidity, Rust, and Web3 Security.
+ - 🧠 Learning Rust, Solidity, and Web3 Security.
  - 🤝 Open to collaborations in the world of Web3 and blockchain.
 
 Contribution:
