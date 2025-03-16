@@ -1,12 +1,14 @@
+Hey There
+
 Bio:
- - 🚀 Building the future with React, Web3, and Node.
- - 🧠 Learning Rust, Solidity, and Web3 Security.
- - 🤝 Open to collaborations in the world of Web3 and blockchain.
+
+- 🚀 Founder @ Vaayu Labs | Building MVPs & tools that save businesses real money
+- 💻 Full-stack with Python, Rust, TypeScript, React & Web3 tech
+- 🛠️ Currently: Email validation tool improving delivery by 25%
 
 Contribution:
- - 🌱 Helping make Web3 a safer and more decentralized space.
- - 🔗 Connecting the world through code.
 
-
-- 💬 Ask me anything about React, Javascript, Redux, Node, Ethers.
-- 📫 How to reach me: sahil@vaayulabs.xyz
+- 🌱 Creating open-source tools that solve real-world problems
+- 🔍 Focused on performance optimization and secure applications
+- 💬 Ask me about MVP development, React, TypeScript, Python, Rust or Web3
+- 📫 Connect: sahil@vaayulabs.xyz | vaayulabs.xyz
