@@ -11,4 +11,4 @@ Contribution:
 - 🌱 Creating open-source tools that solve real-world problems
 - 🔍 Focused on performance optimization and secure applications
 - 💬 Ask me about MVP development, React, TypeScript, Python, Rust or Web3
-- 📫 Connect: sahil@vaayulabs.xyz | vaayulabs.xyz
+- 📫 Connect: sahil@vaayulabs.xyz | [vaayulabs.xyz](https://www.vaayulabs.xyz/)
